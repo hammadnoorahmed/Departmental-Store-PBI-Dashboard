@@ -1,4 +1,4 @@
-# Departmental-Store-PBI-Dashboard
+# Departmental-Store-Sales-PBI-Dashboard
 As the Data Analyst for a Chain of Departmental stores. The CEO has asked to make a weekly sales dashboard/report. There is no data pipeline/warehouse available as such. Weekly data is extracted using a data tool connected to the POS at every store. The senior assistant has extracted a number of files for you to add to your report/dashboard. Every week he will send you this data and you will expected to update this dashboard and then send it to the CEO via a link or otherwise. 
 
 You have been asked to decide the tool to do this task, what are the pros and cons of pbi vs streamlit. What recommendations should be made. Understand the scale of the business and the sales before answering this question.
